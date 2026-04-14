@@ -1,0 +1,16 @@
+/*
+Theme Name:     Minimalist_child
+Description:    
+Author:         roadman
+Template:       minimalistblogger
+
+(optional values you can add: Theme URI, Author URI, Version, License, License URI, Tags, Text Domain)
+*/
+.site-branding .site-title a{
+    font-size: 48px;
+    line-height: 150%;
+    padding: 0;
+    margin: 0;
+    font-family: Merriweather, lato, 'helvetica neue', helvetica, arial;
+    color: brown;
+}
